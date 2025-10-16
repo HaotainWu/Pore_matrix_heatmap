@@ -1,0 +1,5 @@
+﻿layer_id,profile_id,reference,DOIs_URLs,method,latitude_decimal_degrees,longitude_decimal_degrees,hzn_desgn,hzn_top,hzn_bot,db_33,db_od,oc,tex_psda,sand_tot_psa,silt_tot_psa,clay_tot_psa,ph_h2o,porosity,WG_33kpa,lab_head_m,lab_wrc
+781687,166348,Bates_et_al_2020,https://doi.org/10.5194/essd-12-299-2020,Pressure plate,36.8144455,-102.4850006,NA,0,10,1.36,1.103000811,0.86,clay loam,32.6,34.2,33.2,7.8,NA,0.233,1,0.341930251
+812885,171614,Bates_et_al_2020,https://doi.org/10.5194/essd-12-299-2020,Pressure plate,45.3416672,-91.859726,NA,0,18,1.67,1.39050791,1.6,silt loam,29.9,56.5,13.6,5.8,NA,0.201,0.6,0.330940883
+812892,171615,Bates_et_al_2020,https://doi.org/10.5194/essd-12-299-2020,Pressure plate,45.2194443,-92.086113,NA,0,25,1.44,1.15848753,1.85,silt loam,14.7,72.2,13.1,6.2,NA,0.243,3.3,0.28151247
+813016,171632,Bates_et_al_2020,https://doi.org/10.5194/essd-12-299-2020,Pressure plate,38.3727778,-89.4216667,NA,0,21,1.48,1.22923588,0.76,silt loam,9.3,79.7,11,6.4,NA,0.204,3.3,0.25076412
